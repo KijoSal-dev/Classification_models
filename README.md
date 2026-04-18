@@ -55,22 +55,23 @@ Random Forest performed well due to its ensemble learning approach, while Naive 
 # 1. Dataset Preview
 DataFrame preview of the Wine dataset.
 
-![Dataset Preview](home.png)
+![Dataset Preview](dataset.png)
 
 # 2. Confusion Matrix – Random Forest
 The confusion matrix below shows how accurately the Random Forest model classified each wine category.
 
-![Confusion Matrix](home.png)
+![Confusion Matrix](random.png)
 
 # 3. Confusion Matrix – Naive Bayes
 The confusion matrix below shows the prediction results of the Naive Bayes model.
 
-![Confusion Matrix](home.png)
+![Confusion Matrix](naive.png)
 
 # 4. Model Accuracy Comparison
 A bar chart was created to compare model performance.
 
-![Model Accuracy](home.png)
+![Model Accuracy](model1.png)
+![Model Accuracy](model2.png)
 
 # Key Learning Outcomes
 Through this project, I gained practical experience in:
