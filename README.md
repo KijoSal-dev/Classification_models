@@ -57,13 +57,13 @@ DataFrame preview of the Wine dataset.
 
 ![Dataset Preview](home.png)
 
-# 2. Correlation Heatmap
-This heatmap shows relationships between dataset features.
+# 2. Confusion Matrix – Random Forest
+The confusion matrix below shows how accurately the Random Forest model classified each wine category.
 
-![Correlation Heatmap](home.png)
+![Confusion Matrix](home.png)
 
-# 3. Confusion Matrix Example
-Confusion matrices were generated for each model to evaluate prediction performance.
+# 3. Confusion Matrix – Naive Bayes
+The confusion matrix below shows the prediction results of the Naive Bayes model.
 
 ![Confusion Matrix](home.png)
 
@@ -84,6 +84,6 @@ This project strengthened my understanding of how different classification algor
 
 # How to Run the Project
 This project was developed using Google Colab.
-# Step 1: Clone the repository
-# Step 2: Open the notebook in Google Colab
-# Step 3: Run the notebook cells sequentially to reproduce the results.
+Step 1: Clone the repository
+Step 2: Open the notebook in Google Colab
+Step 3: Run the notebook cells sequentially to reproduce the results.
